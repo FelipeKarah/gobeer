@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3080931625",
+    "project_id": "gobeer-d8aa1",
+    "storage_bucket": "gobeer-d8aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3080931625:android:b3855ac5fc199c01d1cf38",
+        "android_client_info": {
+          "package_name": "com.gobeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3080931625-penvsgfu9eu223c2upkmv60n9gf4tbs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxNf3eROSK0KaBZR5tnFc0t11Yfe_i1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3080931625-penvsgfu9eu223c2upkmv60n9gf4tbs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
